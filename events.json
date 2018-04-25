@@ -1,0 +1,114 @@
+[
+  {
+    "date": "2015-11-24",
+    "city": "Milano",
+    "event": "Frontend Milano Meetup",
+    "eventType": "Meetup",
+    "eventLink": "https://www.meetup.com/milano-front-end/events/226461324/",
+    "title": "CSS performance",
+    "slides": "",
+    "video": ""
+  },
+  {
+    "date": "2016-01-26",
+    "city": "Milano",
+    "event": "Frontend Milano Meetup",
+    "eventType": "Meetup",
+    "eventLink": "https://www.meetup.com/milano-front-end/events/227452515/",
+    "title": "One step in the future: CSS variables",
+    "slides": "",
+    "video": ""
+  },
+  {
+    "date": "2016-03-25",
+    "city": "Faenza",
+    "event": "CSSday",
+    "eventType": "Conference",
+    "eventLink": "http://2016.cssday.it/",
+    "title": "One step in the future: CSS variables",
+    "slides": "",
+    "video": "https://vimeo.com/164491531"
+  },
+  {
+    "date": "2016-05-31",
+    "city": "Milano",
+    "event": "Frontend Milano Meetup",
+    "eventType": "Meetup",
+    "eventLink": "https://www.meetup.com/milano-front-end/events/231189305/",
+    "title": "Automated browser testing with webdriver.io",
+    "slides": "",
+    "video": ""
+  },
+  {
+    "date": "2016-10-25",
+    "city": "Milano",
+    "event": "Frontend Milano Meetup",
+    "eventType": "Meetup",
+    "eventLink": "https://www.meetup.com/milano-front-end/events/234479832/",
+    "title": "Web performance & HTTP2",
+    "slides": "",
+    "video": ""
+  },
+  {
+    "date": "2017-01-26",
+    "city": "Verona",
+    "event": "FEVR",
+    "eventType": "Meetup",
+    "eventLink":
+      "https://www.fevr.it/eventi/2017/01/leveling-up-css-with-bem-and-variables/",
+    "title": "One step in the future: CSS variables [v2]",
+    "slides": "",
+    "video": ""
+  },
+  {
+    "date": "2017-02-28",
+    "city": "Milano",
+    "event": "Frontend Milano Meetup",
+    "eventType": "Meetup",
+    "eventLink": "",
+    "title": "ES2015 new features",
+    "slides": "",
+    "video": ""
+  },
+  {
+    "date": "2017-09-26",
+    "city": "Milano",
+    "event": "Frontend Milano Meetup",
+    "eventType": "Meetup",
+    "eventLink": "https://www.meetup.com/milano-front-end/events/243474423/",
+    "title": "Cmd Alt I - Chrome Dev tools",
+    "slides": "",
+    "video": ""
+  },
+  {
+    "date": "2018-03-16",
+    "city": "Faenza",
+    "event": "CSSday",
+    "eventType": "Conference",
+    "eventLink": "https://2018.cssday.it/",
+    "title": "Super smooth animations",
+    "slides": "https://cssday2018.slides.giko.it/",
+    "video": ""
+  },
+  {
+    "date": "2018-04-20",
+    "city": "Ferrara",
+    "event": "Universal JS Day",
+    "eventType": "Conference",
+    "eventLink": "https://2018.universaljsday.com/",
+    "title": "👍 Hitchhiker’s guide to the “Universe”",
+    "slides": "https://universaljsday2018.slides.giko.it/#/",
+    "video": ""
+  },
+  {
+    "date": "2018-04-24",
+    "city": "Milano",
+    "event": "Frontend Milano Meetup",
+    "eventType": "Meetup",
+    "eventLink": "https://www.meetup.com/milano-front-end/events/249631197/",
+    "title": "Super smooth animations",
+    "slides": "https://mife042018.slides.giko.it/#/",
+    "video":
+      "https://www.facebook.com/milanofrontendmeetup/videos/2048556465357049/"
+  }
+]
