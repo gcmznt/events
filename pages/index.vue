@@ -1,15 +1,15 @@
 <template>
   <div>
     <event
-      v-for="event in events"
-      v-bind:key="event.date"
-      v-bind:event="event"
+      v-for="talk in talks"
+      v-bind:key="talk.title"
+      v-bind:talk="talk"
     />
   </div>
 </template>
 
 <script>
-import events from "../events.json";
+import talks from "../events.json";
 import Event from "../components/Event.vue";
 
 export default {
@@ -21,7 +21,11 @@ export default {
   },
   data() {
     return {
-      events: events.sort((a, b) => -1 * a.date.localeCompare(b.date))
+      talks: talks.sort(
+        (a, b) =>
+          Math.max(...b.events.map(e => new Date(e.date))) -
+          Math.max(...a.events.map(e => new Date(e.date)))
+      )
     };
   }
 };
