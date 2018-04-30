@@ -1,6 +1,7 @@
 {
   "name": "example-hello-world",
   "dependencies": {
+    "@nuxtjs/google-analytics": "^2.0.2",
     "nuxt": "latest"
   },
   "scripts": {

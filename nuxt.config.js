@@ -14,5 +14,13 @@ module.exports = {
   css: ["~/css/main.css"],
   build: {
     postcss: []
-  }
+  },
+  modules: [
+    [
+      "@nuxtjs/google-analytics",
+      {
+        id: "UA-28055358-6"
+      }
+    ]
+  ]
 };
