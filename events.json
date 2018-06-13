@@ -7,6 +7,7 @@
         "city": "Milano",
         "name": "Frontend Milano Meetup",
         "type": "Meetup",
+        "language": "it",
         "link": "https://www.meetup.com/milano-front-end/events/226461324/",
         "slides": "",
         "video": ""
@@ -21,6 +22,7 @@
         "city": "Milano",
         "name": "Frontend Milano Meetup",
         "type": "Meetup",
+        "language": "it",
         "link": "https://www.meetup.com/milano-front-end/events/227452515/",
         "slides": "",
         "video": ""
@@ -30,6 +32,7 @@
         "city": "Faenza",
         "name": "CSSday",
         "type": "Conference",
+        "language": "it",
         "link": "http://2016.cssday.it/",
         "slides": "",
         "video": "https://vimeo.com/164491531"
@@ -39,6 +42,7 @@
         "city": "Verona",
         "name": "FEVR",
         "type": "Meetup",
+        "language": "it",
         "link":
           "https://www.fevr.it/eventi/2017/01/leveling-up-css-with-bem-and-variables/",
         "slides": "",
@@ -54,6 +58,7 @@
         "city": "Milano",
         "name": "Frontend Milano Meetup",
         "type": "Meetup",
+        "language": "it",
         "link": "https://www.meetup.com/milano-front-end/events/231189305/",
         "slides": "",
         "video": ""
@@ -68,6 +73,7 @@
         "city": "Milano",
         "name": "Frontend Milano Meetup",
         "type": "Meetup",
+        "language": "it",
         "link": "https://www.meetup.com/milano-front-end/events/234479832/",
         "slides": "",
         "video": ""
@@ -82,6 +88,7 @@
         "city": "Milano",
         "name": "Frontend Milano Meetup",
         "type": "Meetup",
+        "language": "it",
         "link": "",
         "slides": "",
         "video": ""
@@ -96,6 +103,7 @@
         "city": "Milano",
         "name": "Frontend Milano Meetup",
         "type": "Meetup",
+        "language": "it",
         "link": "https://www.meetup.com/milano-front-end/events/243474423/",
         "slides": "",
         "video": ""
@@ -110,17 +118,19 @@
         "city": "Faenza",
         "name": "CSSday",
         "type": "Conference",
+        "language": "it",
         "link": "https://2018.cssday.it/",
         "slides": "https://cssday2018.slides.giko.it/",
-        "video": ""
+        "video": "https://vimeo.com/268342806"
       },
       {
         "date": "2018-04-24",
         "city": "Milano",
         "name": "Frontend Milano Meetup",
         "type": "Meetup",
+        "language": "it",
         "link": "https://www.meetup.com/milano-front-end/events/249631197/",
-        "slides": "https://mife042018.slides.giko.it/#/",
+        "slides": "https://mife042018.slides.giko.it/",
         "video":
           "https://www.facebook.com/milanofrontendmeetup/videos/2048556465357049/"
       }
@@ -134,8 +144,19 @@
         "city": "Ferrara",
         "name": "Universal JS Day",
         "type": "Conference",
+        "language": "it",
         "link": "https://2018.universaljsday.com/",
-        "slides": "https://universaljsday2018.slides.giko.it/#/",
+        "slides": "https://universaljsday2018.slides.giko.it/",
+        "video": "https://vimeo.com/272065103"
+      },
+      {
+        "date": "2018-05-10",
+        "city": "Verona",
+        "name": "JS Day",
+        "type": "UnConf",
+        "language": "en",
+        "link": "https://2018.jsday.it/",
+        "slides": "https://jsday2018.slides.giko.it/",
         "video": ""
       }
     ]
