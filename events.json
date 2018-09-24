@@ -43,8 +43,7 @@
         "name": "FEVR",
         "type": "Meetup",
         "language": "it",
-        "link":
-          "https://www.fevr.it/eventi/2017/01/leveling-up-css-with-bem-and-variables/",
+        "link": "https://www.fevr.it/eventi/2017/01/leveling-up-css-with-bem-and-variables/",
         "slides": "",
         "video": ""
       }
@@ -131,8 +130,17 @@
         "language": "it",
         "link": "https://www.meetup.com/milano-front-end/events/249631197/",
         "slides": "https://mife042018.slides.giko.it/",
-        "video":
-          "https://www.facebook.com/milanofrontendmeetup/videos/2048556465357049/"
+        "video": "https://www.facebook.com/milanofrontendmeetup/videos/2048556465357049/"
+      },
+      {
+        "date": "2018-09-19",
+        "city": "Jobtome - Stabio",
+        "name": "Frontenders Ticino",
+        "type": "Meetup",
+        "language": "it",
+        "link": "https://www.meetup.com/FrontEnders-Ticino/events/254548250/",
+        "slides": "https://frontendersticino092018.slides.giko.it/#/",
+        "video": ""
       }
     ]
   },
