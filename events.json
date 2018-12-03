@@ -168,5 +168,20 @@
         "video": ""
       }
     ]
+  },
+  {
+    "title": "ʇuǝɯdolǝʌǝp ǝʌısuodsǝɹ ǝsɹǝʌǝɹ",
+    "events": [
+      {
+        "date": "2018-10-18",
+        "city": "Torino",
+        "name": "WebAppConf",
+        "type": "Conference",
+        "language": "it",
+        "link": "https://2018.webappconf.it/",
+        "slides": "https://webappconf2018.slides.giko.it",
+        "video": ""
+      }
+    ]
   }
 ]
