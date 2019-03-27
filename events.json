@@ -3,6 +3,7 @@
     "title": "CSS performance",
     "events": [
       {
+        "title": "CSS performance",
         "date": "2015-11-24",
         "city": "Milano",
         "name": "Frontend Milano Meetup",
@@ -18,6 +19,7 @@
     "title": "One step in the future: CSS variables",
     "events": [
       {
+        "title": "One step in the future: CSS variables",
         "date": "2016-01-26",
         "city": "Milano",
         "name": "Frontend Milano Meetup",
@@ -28,6 +30,7 @@
         "video": ""
       },
       {
+        "title": "One step in the future: CSS variables",
         "date": "2016-03-25",
         "city": "Faenza",
         "name": "CSSday",
@@ -38,6 +41,7 @@
         "video": "https://vimeo.com/164491531"
       },
       {
+        "title": "One step in the future: CSS variables",
         "date": "2017-01-26",
         "city": "Verona",
         "name": "FEVR",
@@ -53,6 +57,7 @@
     "title": "Automated browser testing with webdriver.io",
     "events": [
       {
+        "title": "Automated browser testing with webdriver.io",
         "date": "2016-05-31",
         "city": "Milano",
         "name": "Frontend Milano Meetup",
@@ -68,6 +73,7 @@
     "title": "Web performance & HTTP2",
     "events": [
       {
+        "title": "Web performance & HTTP2",
         "date": "2016-10-25",
         "city": "Milano",
         "name": "Frontend Milano Meetup",
@@ -83,6 +89,7 @@
     "title": "ES2015 new features",
     "events": [
       {
+        "title": "ES2015 new features",
         "date": "2017-02-28",
         "city": "Milano",
         "name": "Frontend Milano Meetup",
@@ -98,6 +105,7 @@
     "title": "Cmd Alt I - Chrome Dev tools",
     "events": [
       {
+        "title": "Cmd Alt I - Chrome Dev tools",
         "date": "2017-09-26",
         "city": "Milano",
         "name": "Frontend Milano Meetup",
@@ -113,6 +121,7 @@
     "title": "Super smooth animations",
     "events": [
       {
+        "title": "Super smooth animations",
         "date": "2018-03-16",
         "city": "Faenza",
         "name": "CSSday",
@@ -123,6 +132,7 @@
         "video": "https://vimeo.com/268342806"
       },
       {
+        "title": "Super smooth animations",
         "date": "2018-04-24",
         "city": "Milano",
         "name": "Frontend Milano Meetup",
@@ -133,6 +143,7 @@
         "video": "https://www.facebook.com/milanofrontendmeetup/videos/2048556465357049/"
       },
       {
+        "title": "Super smooth animations",
         "date": "2018-09-19",
         "city": "Jobtome - Stabio",
         "name": "Frontenders Ticino",
@@ -148,6 +159,7 @@
     "title": "👍 Hitchhiker’s guide to the “Universe”",
     "events": [
       {
+        "title": "👍 Hitchhiker’s guide to the “Universe”",
         "date": "2018-04-20",
         "city": "Ferrara",
         "name": "Universal JS Day",
@@ -158,6 +170,7 @@
         "video": "https://vimeo.com/272065103"
       },
       {
+        "title": "👍 Hitchhiker’s guide to the “Universe”",
         "date": "2018-05-10",
         "city": "Verona",
         "name": "JS Day",
@@ -170,9 +183,26 @@
     ]
   },
   {
-    "title": "ʇuǝɯdolǝʌǝp ǝʌısuodsǝɹ ǝsɹǝʌǝɹ",
+    "title": "Intro a Como CaFE: Chi è un frontendista?",
     "events": [
       {
+        "title": "Intro a Como CaFE: Chi è un frontendista?",
+        "date": "2018-10-10",
+        "city": "Como",
+        "name": "Como and FrontEnd",
+        "type": "Meetup",
+        "language": "it",
+        "link": "https://www.meetup.com/Como-and-Frontend-CaFE/events/254513603/",
+        "slides": "https://cafe102018.slides.giko.it/",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "title": "La fine delle media query?",
+    "events": [
+      {
+        "title": "ʇuǝɯdolǝʌǝp ǝʌısuodsǝɹ ǝsɹǝʌǝɹ",
         "date": "2018-10-18",
         "city": "Torino",
         "name": "WebAppConf",
@@ -180,6 +210,46 @@
         "language": "it",
         "link": "https://2018.webappconf.it/",
         "slides": "https://webappconf2018.slides.giko.it",
+        "video": ""
+      },
+      {
+        "title": "Responsive senza media-query",
+        "abstract": "Vi ricordate quei bellissimi numeri magici? 960 x 600? E poi? E poi, puff... arrivò il Responsive Web Design che insieme all’approccio mobile first cambiò tutto... o quasi! Oggi la cintura degli attrezzi di un frontendista è diventata talmente ricca che ogni tanto ci serve far ordine e pulizia per cercare di capire come gli strumenti possano darci il loro meglio. Proviamo quindi a capire come nel 2019 possiamo implementare e sviluppare al meglio tutti questi concetti per poter migliorare i nostri rapporti con i designer del team.",
+        "date": "2019-02-13",
+        "city": "Como",
+        "name": "Como and FrontEnd",
+        "type": "Meetup",
+        "language": "it",
+        "link": "https://www.meetup.com/Como-and-Frontend-CaFE/events/258865234/",
+        "slides": "https://cafe022019.slides.giko.it/",
+        "video": ""
+      },
+      {
+        "title": "La fine delle media query?",
+        "abstract": "Vi ricordate quei bellissimi numeri magici? 960 x 600? E poi? E poi, puff... arrivò il Responsive Web Design che insieme all’approccio mobile first cambiò tutto... o quasi! Oggi la cintura degli attrezzi di un frontendista è diventata talmente ricca che ogni tanto ci serve far ordine e pulizia per cercare di capire come gli strumenti possano darci il loro meglio. Proviamo quindi a capire come nel 2018 possiamo implementare e sviluppare al meglio tutti questi concetti per poter migliorare i nostri rapporti con i designer del team.",
+        "date": "2019-03-15",
+        "city": "Faenza",
+        "name": "CSSday",
+        "type": "Conference",
+        "language": "it",
+        "link": "https://2019.cssday.it/",
+        "slides": "https://cssday2019.slides.giko.it/",
+        "video": ""
+      }
+    ]
+  },
+  {
+    "title": "1001 ways to write CSS today",
+    "events": [
+      {
+        "title": "1001 ways to write CSS today",
+        "date": "2019-03-23",
+        "city": "Roma",
+        "name": "Codemotion",
+        "type": "Conference",
+        "language": "en",
+        "link": "https://events.codemotion.com/conferences/rome/2019/",
+        "slides": "https://codemotion2019roma.slides.giko.it",
         "video": ""
       }
     ]
